@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherPicker" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/accent</item>
+    </style>
+
+
+    <style name="Theme.WeatherPicker" parent="Base.Theme.WeatherPicker" />
+</resources>

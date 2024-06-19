@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627508359045",
+    "project_id": "weatherpicker-839ee",
+    "storage_bucket": "weatherpicker-839ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627508359045:android:495d74b2a0c74831149eec",
+        "android_client_info": {
+          "package_name": "com.example.weatherpicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN47p4OB7E0pfVxzVAF02qUSSpyXcL5b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
